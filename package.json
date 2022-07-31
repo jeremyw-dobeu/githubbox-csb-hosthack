@@ -1,9 +1,9 @@
 {
   "private": true,
-  "name": "githubbox",
+  "name": "githubbox-dev-100",
   "type": "module",
   "version": "1.0.0",
-  "description": "Open any GitHub repo in CodeSandbox",
+  "description": "",
   "main": "src/index.js",
   "scripts": {
     "test": "node --experimental-modules src/index.spec.js | tap-spec",
@@ -27,5 +27,6 @@
     "trailingComma": "all",
     "tabWidth": 2,
     "printWidth": 80
-  }
+  },
+  "keywords": []
 }
